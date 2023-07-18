@@ -1,0 +1,20 @@
+#gamediv{
+    border: 3px solid;
+    border-radius: 20px;
+    width: 400px;
+    height: 250px;
+    text-align: center;
+    background-color:aqua;
+    margin-left: 550px;
+}
+
+.btn{
+    width: 90px;
+    height: 30px;
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+.gametext{
+    color: rgb(241, 15, 15);
+}

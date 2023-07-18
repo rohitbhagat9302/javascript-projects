@@ -1,0 +1,19 @@
+#gameboard{
+    border: 4px solid;
+}
+#gamecontainer{
+    text-align: center;
+}
+#scoretext{
+    font-family: "consolas";
+    font-size: 60px;
+}
+#resetbtn{
+    width: 60px;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 700;
+    background-color: rgb(243, 200, 119);
+    cursor: pointer;
+}

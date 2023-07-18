@@ -1,0 +1,31 @@
+.cell{
+    width: 75px;
+    height: 75px;
+    border: 2px solid;
+    box-shadow: 0 0 0 2px;
+    cursor: pointer;
+    font-size: 60px;
+    background-color: rgb(79, 167, 245);
+}
+#cellcontainer{
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    width: 225px;
+    margin: auto;
+}
+#gamecontainer{
+    border: 3px solid;
+    height: 420px;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    background-color: aqua;
+}
+#restartbtn{
+    width: 80px;
+    height: 30px;
+    background-color: black;
+    color: rgb(228, 235, 235);
+    font-size: larger;
+    border-radius: 10px;
+}
